@@ -4,6 +4,13 @@ It's a fork from the [grid of antd](https://ant.design/components/grid), but doe
 
 > It won't be compatible with antd grid in the future.
 
+
+## Install
+
+```shell
+npm i @swordlib/react-responsive
+```
+
 ## Example
 
 [example demo](https://swordlib.github.io/react-responsive)
