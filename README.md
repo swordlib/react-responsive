@@ -1,4 +1,4 @@
-# React Resonsive
+# React Responsive
 
 It's a fork from the [grid of antd](https://ant.design/components/grid), but doesn't support rtl. And style language has been changed to scss.
 
