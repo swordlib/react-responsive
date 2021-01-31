@@ -1,6 +1,6 @@
 import React from 'react'
 
-import 'react-responsive/dist/index.css'
+import '@swordlib/react-responsive/dist/index.css'
 import styles from './App.module.scss'
 import Divider from './Divider'
 import Alignment from './Grid/Alignment/Alignment'

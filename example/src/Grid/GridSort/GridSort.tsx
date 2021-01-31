@@ -1,5 +1,5 @@
 import React from 'react'
-import { Grid } from 'react-responsive'
+import { Grid } from '@swordlib/react-responsive'
 import styles from './GridSort.module.scss'
 
 const { Row, Col } = Grid

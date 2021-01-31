@@ -1452,6 +1452,10 @@
     "@svgr/plugin-svgo" "^4.3.1"
     loader-utils "^1.2.3"
 
+"@swordlib/react-responsive@link:..":
+  version "0.0.0"
+  uid ""
+
 "@testing-library/dom@*":
   version "7.29.4"
   resolved "https://registry.npm.taobao.org/@testing-library/dom/download/@testing-library/dom-7.29.4.tgz#1647c2b478789621ead7a50614ad81ab5ae5b86c"
@@ -2941,6 +2945,11 @@ class-utils@^0.3.5:
     define-property "^0.2.5"
     isobject "^3.0.0"
     static-extend "^0.1.1"
+
+classnames@^2.2.6:
+  version "2.2.6"
+  resolved "https://registry.npm.taobao.org/classnames/download/classnames-2.2.6.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fclassnames%2Fdownload%2Fclassnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
+  integrity sha1-Q5Nb/90pHzJtrQogUwmzjQD2UM4=
 
 clean-css@^4.2.3:
   version "4.2.3"
@@ -8708,10 +8717,6 @@ react-is@^17.0.1:
   version "17.0.1"
   resolved "https://registry.npm.taobao.org/react-is/download/react-is-17.0.1.tgz?cache=0&sync_timestamp=1610380937362&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-is%2Fdownload%2Freact-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha1-WzUxvXamRaTJ+25pPtNkGeMwEzk=
-
-"react-responsive@link:..":
-  version "0.0.0"
-  uid ""
 
 "react-scripts@link:../node_modules/react-scripts":
   version "0.0.0"
