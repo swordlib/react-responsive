@@ -1,0 +1,16 @@
+.row {
+  margin-top: 12px;
+  .demoBox {
+    background-color: #0092ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  >div {
+    &:nth-child(odd) {
+      .demoBox {
+        background: rgba(0,146,255,.75);
+      }
+    }
+  }
+}

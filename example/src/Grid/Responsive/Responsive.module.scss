@@ -1,0 +1,13 @@
+.row {
+  margin-top: 12px;
+  >div {
+    height: 36px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0092ff;
+    display: flex;
+    &:nth-child(odd) {
+      background: rgba(0,146,255,.75);
+    }
+  }
+}
