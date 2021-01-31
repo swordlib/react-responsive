@@ -24,8 +24,7 @@
     "test:watch": "react-scripts test --env=jsdom",
     "predeploy": "yarn build && cd example && yarn install && yarn run build",
     "deploy": "gh-pages -d example/build",
-    "prepublish": "run-s build",
-    "publish": "npm publish"
+    "prepublish": "run-s build"
   },
   "peerDependencies": {
     "react": "^16.0.0"
